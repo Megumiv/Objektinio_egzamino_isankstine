@@ -1,0 +1,19 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <map>
+#include <set>
+#include <regex>
+#include <algorithm>
+#include <locale>
+#include <string>
+#include <iomanip>
+
+using std::string;
+using std::wcout;
+using std::endl;
+using std::cerr;
+using std::locale;
+using std::ofstream;
+using std::ifstream;
